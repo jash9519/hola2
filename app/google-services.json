@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "184327449066",
+    "firebase_url": "https://holaspunk-3e452.firebaseio.com",
+    "project_id": "holaspunk-3e452",
+    "storage_bucket": "holaspunk-3e452.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184327449066:android:2c0604b43e6bcd41",
+        "android_client_info": {
+          "package_name": "com.example.android.holaspunk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184327449066-iib4ln85eof4egjjiir0p1lmqhktprat.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.holaspunk",
+            "certificate_hash": "f96ebbad1fca6f337d31e6bd372cff44b8a7c649"
+          }
+        },
+        {
+          "client_id": "184327449066-gmldooqpbvtisd7jmaghsgarqj0t8hf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXyB-mVGxTbyb3Z723nnKjVeKbRp80riY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184327449066-gmldooqpbvtisd7jmaghsgarqj0t8hf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
